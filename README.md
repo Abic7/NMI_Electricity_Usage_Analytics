@@ -68,7 +68,7 @@ After the script finishes, you will find a new file named energy_vs_temperature_
 📜 Code Overview
 
 This repository contains two main Python scripts:
-nmi_Final.py
+nmi.py
 
     Purpose: To handle the initial data cleaning and preparation.
 
