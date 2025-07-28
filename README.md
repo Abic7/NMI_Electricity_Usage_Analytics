@@ -109,8 +109,10 @@ Running the energy_analysis.py script will produce an output similar to this in 
 Animated Visualization
 
 The script will generate a GIF that looks like this !
-🤝 Contributing
+<img width="954" height="562" alt="image" src="https://github.com/user-attachments/assets/c98ee029-c2ab-4824-930c-8df8b8d2147b" />
 
+
+🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
     Fork the Project
