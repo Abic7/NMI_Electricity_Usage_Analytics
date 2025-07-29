@@ -3,6 +3,7 @@ Australian Household Energy Consumption Analysis ⚡️💡
 Welcome! This repository provides a set of Python scripts to enrich, analyze, and visualize household electricity usage data from Australian energy distributors. By correlating your energy consumption with local weather data, you can uncover actionable insights into your usage patterns, identify opportunities for savings, and understand your environmental impact.
 
 The primary goal is to transform raw, complex NMI (National Metering Identifier) data into a clear, data-driven narrative.
+
 📊 Features
 
     Data Enrichment: Automatically processes raw usage data from energy providers (like United Energy) and formats it according to NMI12 or NMI13 specifications.
